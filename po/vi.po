@@ -8,15 +8,17 @@ msgstr ""
 "Project-Id-Version: dialer-app\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2015-07-15 10:53-0300\n"
-"PO-Revision-Date: 2015-10-18 14:04+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: Vietnamese <vi@li.org>\n"
+"PO-Revision-Date: 2020-06-18 06:25+0000\n"
+"Last-Translator: Phu1237 <phuvip867@gmail.com>\n"
+"Language-Team: Vietnamese <https://translate.ubports.com/projects/ubports/"
+"dialer-app/vi/>\n"
+"Language: vi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 3.11.3\n"
 "X-Launchpad-Export-Date: 2017-02-17 05:52+0000\n"
-"X-Generator: Launchpad (build 18326)\n"
 
 #: ../src/qml/DialerPage/Keypad.qml:174
 msgid "#"
@@ -32,15 +34,13 @@ msgstr ""
 #, qt-format
 msgid "%1 hour"
 msgid_plural "%1 hours"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%1 giờ"
 
 #: ../src/qml/HistoryPage/dateUtils.js:94
 #, qt-format
 msgid "%1 min"
 msgid_plural "%1 mins"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%1 phút"
 
 #: ../src/qml/HistoryPage/dateUtils.js:96
 #, qt-format
@@ -111,7 +111,7 @@ msgstr ""
 
 #: ../src/qml/LiveCallPage/MultiCallDisplay.qml:131
 msgid "Active"
-msgstr ""
+msgstr "Kích hoạt"
 
 #: ../src/qml/HistoryPage/HistoryPage.qml:68
 msgctxt "All Calls"
@@ -170,7 +170,7 @@ msgstr ""
 #: ../src/qml/ContactsPage/ContactsPage.qml:145
 #: ../src/qml/Dialogs/DisableFlightModeDialog.qml:38
 msgid "Cancel"
-msgstr ""
+msgstr "Huỷ bỏ"
 
 #. TRANSLATORS: this refers to which SIM card will be used as default for calls
 #: ../src/qml/Dialogs/SetDefaultSIMCardDialog.qml:30
@@ -181,7 +181,7 @@ msgstr ""
 #: ../src/qml/DialerPage/DialerPage.qml:67
 #: ../src/qml/Dialogs/NotificationDialog.qml:29
 msgid "Close"
-msgstr ""
+msgstr "Đóng"
 
 #: ../src/qml/LiveCallPage/LiveCall.qml:50
 #: ../src/qml/LiveCallPage/MultiCallDisplay.qml:89
@@ -218,7 +218,7 @@ msgstr ""
 #: ../src/qml/HistoryPage/HistoryDetailsPage.qml:253
 #: ../src/qml/HistoryPage/HistoryPage.qml:341
 msgid "Delete"
-msgstr ""
+msgstr "Xóa bỏ"
 
 #: ../src/qml/HistoryPage/HistoryPage.qml:350
 msgid "Details"
@@ -226,7 +226,7 @@ msgstr ""
 
 #: ../src/qml/Dialogs/DisableFlightModeDialog.qml:47
 msgid "Disable"
-msgstr ""
+msgstr "Vô hiệu hoá"
 
 #: ../src/qml/Dialogs/FlightModeProgressDialog.qml:29
 msgid "Disabling flight mode"
@@ -244,7 +244,7 @@ msgstr ""
 
 #: ../src/qml/ContactViewPage/DialerContactViewPage.qml:70
 msgid "Edit"
-msgstr ""
+msgstr "Chỉnh sửa"
 
 #: ../src/qml/DialerPage/DialerPage.qml:122
 #: ../src/qml/DialerPage/DialerPage.qml:132
@@ -359,8 +359,9 @@ msgid "No recent calls"
 msgstr ""
 
 #: ../src/qml/Dialogs/SimLockedDialog.qml:50
+#, fuzzy
 msgid "Ok"
-msgstr ""
+msgstr "Chấp nhận"
 
 #: ../src/qml/LiveCallPage/MultiCallDisplay.qml:129
 msgid "On hold"
@@ -378,7 +379,7 @@ msgstr ""
 #: ../src/qml/DialerPage/DialerPage.qml:136
 #: ../src/dialer-app.desktop.in.in.h:1
 msgid "Phone"
-msgstr ""
+msgstr "Điện thoại"
 
 #: ../src/dialer-app.desktop.in.in.h:2
 msgid "Phone App"
@@ -431,7 +432,7 @@ msgstr ""
 
 #: ../src/qml/ContactEditorPage/DialerContactEditorPage.qml:47
 msgid "Save"
-msgstr ""
+msgstr "Lưu"
 
 #: ../src/qml/ContactsPage/ContactsPage.qml:119
 msgid "Search"
@@ -457,7 +458,7 @@ msgstr ""
 
 #: ../src/qml/DialerPage/DialerPage.qml:53
 msgid "Settings"
-msgstr ""
+msgstr "Thiết lập"
 
 #: ../src/qml/ContactViewPage/DialerContactViewPage.qml:61
 #: ../src/qml/HistoryPage/HistoryDetailsPage.qml:78
@@ -499,7 +500,7 @@ msgstr ""
 
 #: ../src/qml/HistoryPage/dateUtils.js:45
 msgid "Today"
-msgstr ""
+msgstr "Hôm nay"
 
 #: ../src/qml/LiveCallPage/LiveCall.qml:341
 msgid "Ubuntu Phone"
@@ -529,7 +530,7 @@ msgstr ""
 
 #: ../src/qml/HistoryPage/dateUtils.js:47
 msgid "Yesterday"
-msgstr ""
+msgstr "Hôm qua"
 
 #: ../src/qml/Dialogs/DisableFlightModeDialog.qml:28
 msgid "You have to disable flight mode in order to make calls"
