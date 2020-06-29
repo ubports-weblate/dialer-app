@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: dialer-app\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2015-07-15 10:53-0300\n"
-"PO-Revision-Date: 2020-05-25 06:24+0000\n"
-"Last-Translator: Somnuk Limsiroratana <mailsomnuk@yahoo.com>\n"
+"PO-Revision-Date: 2020-06-29 14:52+0000\n"
+"Last-Translator: PPNplus <ppnplus@protonmail.com>\n"
 "Language-Team: Thai <https://translate.ubports.com/projects/ubports/"
 "dialer-app/th/>\n"
 "Language: th\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 3.8\n"
+"X-Generator: Weblate 3.11.3\n"
 "X-Launchpad-Export-Date: 2017-02-17 05:52+0000\n"
 
 #: ../src/qml/DialerPage/Keypad.qml:174
@@ -143,11 +143,11 @@ msgstr ""
 
 #: ../src/qml/LiveCallPage/LiveCall.qml:150
 msgid "Call ended"
-msgstr ""
+msgstr "จบการสนทนา"
 
 #: ../src/qml/LiveCallPage/LiveCall.qml:295
 msgid "Call failed"
-msgstr ""
+msgstr "ไม่สามารถโทร"
 
 #: ../src/qml/LiveCallPage/LiveCall.qml:158
 msgid "Call holding failure"
@@ -158,7 +158,7 @@ msgstr ""
 #: ../src/qml/LiveCallPage/LiveCall.qml:453
 #: ../src/qml/LiveCallPage/MultiCallDisplay.qml:108
 msgid "Calling"
-msgstr ""
+msgstr "กำลังโทร"
 
 #: ../src/qml/dialer-app.qml:588
 msgid "Calling Line Presentation"
@@ -205,7 +205,7 @@ msgstr ""
 #: ../src/qml/HistoryPage/HistoryDetailsPage.qml:66
 #: ../src/qml/HistoryPage/HistoryPage.qml:369
 msgid "Contact Details"
-msgstr ""
+msgstr "ข้อมูลผู้ติดต่อ"
 
 #: ../src/qml/ContactsPage/ContactsPage.qml:77
 #: ../src/qml/DialerPage/DialerPage.qml:48
@@ -224,25 +224,25 @@ msgstr "ลบ"
 
 #: ../src/qml/HistoryPage/HistoryPage.qml:350
 msgid "Details"
-msgstr ""
+msgstr "ข้อมูล"
 
 #: ../src/qml/Dialogs/DisableFlightModeDialog.qml:47
 msgid "Disable"
-msgstr ""
+msgstr "ปิด"
 
 #: ../src/qml/Dialogs/FlightModeProgressDialog.qml:29
 msgid "Disabling flight mode"
-msgstr ""
+msgstr "กำลังปิดโหมดเครื่องบิน"
 
 #: ../src/qml/Dialogs/UssdErrorDialog.qml:31
 #: ../src/qml/Dialogs/UssdResponseDialog.qml:30
 #: ../src/qml/MMI/IMEIDialog.qml:40
 msgid "Dismiss"
-msgstr ""
+msgstr "ปิด"
 
 #: ../src/qml/Dialogs/SetDefaultSIMCardDialog.qml:67
 msgid "Don't ask again"
-msgstr ""
+msgstr "ไม่ต้องถามอีก"
 
 #: ../src/qml/ContactViewPage/DialerContactViewPage.qml:70
 msgid "Edit"
@@ -251,7 +251,7 @@ msgstr "แก้ไข"
 #: ../src/qml/DialerPage/DialerPage.qml:122
 #: ../src/qml/DialerPage/DialerPage.qml:132
 msgid "Emergency Calls"
-msgstr ""
+msgstr "การโทรฉุกเฉิน"
 
 #: ../src/qml/DialerPage/DialerPage.qml:288
 msgid "Enter a number"
@@ -280,11 +280,11 @@ msgstr "รายการโปรด"
 #: ../src/qml/DialerPage/DialerPage.qml:127
 #: ../src/qml/Dialogs/DisableFlightModeDialog.qml:27
 msgid "Flight Mode"
-msgstr ""
+msgstr "โหมดเครื่องบิน"
 
 #: ../src/qml/DialerPage/DialerPage.qml:77
 msgid "Flight mode"
-msgstr ""
+msgstr "โหมดเครื่องบิน"
 
 #: ../src/qml/DialerPage/Keypad.qml:83
 msgid "GHI"
@@ -292,7 +292,7 @@ msgstr ""
 
 #: ../src/qml/HistoryPage/SwipeItemDemo.qml:255
 msgid "Got it"
-msgstr ""
+msgstr "เข้าใจแล้ว"
 
 #: ../src/qml/MMI/IMEIDialog.qml:27
 msgid "IMEI"
@@ -302,11 +302,11 @@ msgstr ""
 #: ../src/qml/HistoryPage/HistoryDetailsPage.qml:330
 #: ../src/qml/HistoryPage/SwipeItemDemo.qml:189
 msgid "Incoming"
-msgstr ""
+msgstr "สายเข้า"
 
 #: ../src/qml/Dialogs/UssdErrorDialog.qml:29
 msgid "Invalid USSD code"
-msgstr ""
+msgstr "รหัส USSD ไม่ถูกต้อง"
 
 #: ../src/qml/DialerPage/Keypad.qml:94
 msgid "JKL"
@@ -314,11 +314,11 @@ msgstr ""
 
 #: ../src/qml/DialerPage/DialerPage.qml:85
 msgid "Keypad"
-msgstr ""
+msgstr "ปุ่มกด"
 
 #: ../src/qml/Dialogs/NoDefaultSIMCardDialog.qml:80
 msgid "Later"
-msgstr ""
+msgstr "ภายหลัง"
 
 #: ../src/qml/DialerPage/Keypad.qml:105
 msgid "MNO"
@@ -326,13 +326,13 @@ msgstr ""
 
 #: ../src/qml/LiveCallPage/LiveCall.qml:560
 msgid "Merge calls"
-msgstr ""
+msgstr "รวมสาย"
 
 #: ../src/qml/HistoryPage/HistoryDelegate.qml:63
 #: ../src/qml/HistoryPage/HistoryDetailsPage.qml:328
 #: ../src/qml/HistoryPage/HistoryPage.qml:68
 msgid "Missed"
-msgstr ""
+msgstr "ไม่ได้รับ"
 
 #: ../src/qml/HistoryPage/SwipeItemDemo.qml:164
 msgid "Mobile"
@@ -345,24 +345,24 @@ msgstr "ไม่"
 
 #: ../src/qml/dialer-app.qml:355
 msgid "No SIM card selected"
-msgstr ""
+msgstr "ไม่ได้เลือก SIM การ์ด"
 
 #: ../src/qml/LiveCallPage/LiveCall.qml:120
 msgid "No calls"
-msgstr ""
+msgstr "ไม่มีการโทร"
 
 #: ../src/qml/DialerPage/DialerPage.qml:138 ../src/qml/dialer-app.qml:374
 #: ../src/qml/dialer-app.qml:379
 msgid "No network"
-msgstr ""
+msgstr "ไม่มีเครือข่าย"
 
 #: ../src/qml/HistoryPage/HistoryPage.qml:245
 msgid "No recent calls"
-msgstr ""
+msgstr "ไม่มีการโทรล่าสุด"
 
 #: ../src/qml/Dialogs/SimLockedDialog.qml:50
 msgid "Ok"
-msgstr ""
+msgstr "ตกลง"
 
 #: ../src/qml/LiveCallPage/MultiCallDisplay.qml:129
 msgid "On hold"
@@ -371,7 +371,7 @@ msgstr ""
 #: ../src/qml/HistoryPage/HistoryDelegate.qml:67
 #: ../src/qml/HistoryPage/HistoryDetailsPage.qml:332
 msgid "Outgoing"
-msgstr ""
+msgstr "สายออก"
 
 #: ../src/qml/DialerPage/Keypad.qml:116
 msgid "PQRS"
@@ -384,7 +384,7 @@ msgstr "โทรศัพท์"
 
 #: ../src/dialer-app.desktop.in.in.h:2
 msgid "Phone App"
-msgstr ""
+msgstr "แอปโทรศัพท์"
 
 #: ../src/qml/LiveCallPage/LiveCall.qml:343
 msgid "Phone Speaker"
@@ -392,7 +392,7 @@ msgstr ""
 
 #: ../src/dialer-app.desktop.in.in.h:3
 msgid "Phone application"
-msgstr ""
+msgstr "แอปพลิเคชั่นโทรศัพท์"
 
 #: ../src/dialer-app.desktop.in.in.h:4
 msgid "Phone;Dialer;Dial;Call;Keypad"
@@ -407,21 +407,21 @@ msgstr ""
 
 #: ../src/qml/Dialogs/UssdProgressDialog.qml:28
 msgid "Please wait"
-msgstr ""
+msgstr "กรุณารอสักครู่"
 
 #: ../src/qml/LiveCallPage/ConferenceCallDisplay.qml:141
 msgid "Private"
-msgstr ""
+msgstr "ส่วนตัว"
 
 #: ../src/qml/HistoryPage/HistoryDelegate.qml:168
 #: ../src/qml/HistoryPage/HistoryDetailsPage.qml:43
 msgid "Private number"
-msgstr ""
+msgstr "หมายเลขส่วนตัว"
 
 #: ../src/qml/DialerPage/DialerPage.qml:502
 #: ../src/qml/HistoryPage/HistoryPage.qml:47
 msgid "Recent"
-msgstr ""
+msgstr "ล่าสุด"
 
 #: ../src/qml/Dialogs/SimLockedDialog.qml:27
 msgid "SIM Card is locked"
@@ -429,7 +429,7 @@ msgstr ""
 
 #: ../src/qml/DialerPage/DialerPage.qml:130
 msgid "SIM Locked"
-msgstr ""
+msgstr "SIM ถูกล็อก"
 
 #: ../src/qml/ContactEditorPage/DialerContactEditorPage.qml:47
 msgid "Save"
@@ -445,17 +445,19 @@ msgstr "ค้นหา..."
 
 #: ../src/qml/HistoryPage/HistoryPage.qml:47
 msgid "Select"
-msgstr ""
+msgstr "เลือก"
 
 #: ../src/qml/Dialogs/NoDefaultSIMCardDialog.qml:58
 msgid ""
 "Select a default SIM for all outgoing calls. You can always alter your "
 "choice in <a href=\"system_settings\">System Settings</a>."
 msgstr ""
+"เลือก SIM ที่จะใช้โทรออกเป็นค่าเริ่มต้น คุณสามารถเปลี่ยนได้ภายหลังใน<a href="
+"\"system_settings\">การตั้งค่าระบบ</a>"
 
 #: ../src/qml/HistoryPage/HistoryPage.qml:360
 msgid "Send message"
-msgstr ""
+msgstr "ส่งข้อความ"
 
 #: ../src/qml/DialerPage/DialerPage.qml:53
 msgid "Settings"
@@ -468,11 +470,11 @@ msgstr "แชร์"
 
 #: ../src/qml/HistoryPage/SwipeItemDemo.qml:326
 msgid "Swipe to delete"
-msgstr ""
+msgstr "เลื่อนเพื่อลบ"
 
 #: ../src/qml/HistoryPage/SwipeItemDemo.qml:276
 msgid "Swipe to reveal actions"
-msgstr ""
+msgstr "เลื่อนเพื่อดูการกระทำอื่น"
 
 #: ../src/qml/LiveCallPage/LiveCall.qml:175
 msgid "Switch audio source:"
@@ -484,7 +486,7 @@ msgstr ""
 
 #: ../src/qml/Dialogs/NoDefaultSIMCardDialog.qml:27
 msgid "Switch to default SIM:"
-msgstr ""
+msgstr "เปลี่ยนเป็น SIM หลัก:"
 
 #: ../src/qml/DialerPage/Keypad.qml:127
 msgid "TUV"
@@ -493,33 +495,33 @@ msgstr ""
 #: ../src/qml/dialer-app.qml:380
 #, qt-format
 msgid "There is currently no network on %1"
-msgstr ""
+msgstr "ไม่มีเครือข่ายสำหรับ %1"
 
 #: ../src/qml/dialer-app.qml:374 ../src/qml/dialer-app.qml:381
 msgid "There is currently no network."
-msgstr ""
+msgstr "ไม่มีเครือข่าย"
 
 #: ../src/qml/HistoryPage/dateUtils.js:45
 msgid "Today"
-msgstr ""
+msgstr "วันนี้"
 
 #: ../src/qml/LiveCallPage/LiveCall.qml:341
 msgid "Ubuntu Phone"
-msgstr ""
+msgstr "โทรศัพท์ Ubuntu"
 
 #: ../src/qml/LiveCallPage/LiveCall.qml:345
 msgid "Unknown device"
-msgstr ""
+msgstr "อุปกรณ์ที่ไม่รู้จัก"
 
 #: ../src/qml/HistoryPage/HistoryDelegate.qml:170
 #: ../src/qml/HistoryPage/HistoryDetailsPage.qml:45
 msgid "Unknown number"
-msgstr ""
+msgstr "หมายเลขที่ไม่รู้จัก"
 
 #: ../src/qml/LiveCallPage/ConferenceCallDisplay.qml:73
 #: ../src/qml/LiveCallPage/MultiCallDisplay.qml:91
 msgid "Voicemail"
-msgstr ""
+msgstr "ข้อความเสียง"
 
 #: ../src/qml/DialerPage/Keypad.qml:138
 msgid "WXYZ"
@@ -535,11 +537,11 @@ msgstr "เมื่อวาน"
 
 #: ../src/qml/Dialogs/DisableFlightModeDialog.qml:28
 msgid "You have to disable flight mode in order to make calls"
-msgstr ""
+msgstr "คุณต้องปิดโหมดเครื่องบินเพื่อทำการโทรออก"
 
 #: ../src/qml/dialer-app.qml:355
 msgid "You need to select a SIM card"
-msgstr ""
+msgstr "คุณต้องเลือก SIM การ์ด"
 
 #. TRANSLATORS: this is the duration time format when the call lasted more than an hour
 #: ../src/qml/HistoryPage/dateUtils.js:112
