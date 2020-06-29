@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: dialer-app\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-04-20 12:40+0200\n"
-"PO-Revision-Date: 2020-06-29 18:39+0000\n"
-"Last-Translator: Florian Leeber <flori@bin.org.in>\n"
+"PO-Revision-Date: 2020-07-01 03:25+0000\n"
+"Last-Translator: Daniel Frost <one@frostinfo.de>\n"
 "Language-Team: German <https://translate.ubports.com/projects/ubports/"
 "dialer-app/de/>\n"
 "Language: de\n"
@@ -382,9 +382,8 @@ msgid "Failed to place the active call on hold."
 msgstr "Halten des Anrufs fehlgeschlagen."
 
 #: ../src/qml/DialerPage/DialerPage.qml:59
-#, fuzzy
 msgid "Favorite Contacts"
-msgstr "Favoriten"
+msgstr "Kontakt-Favoriten"
 
 #: ../src/qml/ContactsPage/ContactsPage.qml:97
 msgid "Favorites"
@@ -530,7 +529,7 @@ msgstr "Ok"
 
 #: ../src/qml/SettingsPage/AccountSettings/sip.qml:28
 msgid "On"
-msgstr ""
+msgstr "Ein"
 
 #: ../src/qml/LiveCallPage/MultiCallDisplay.qml:129
 msgid "On hold"
@@ -567,7 +566,7 @@ msgstr "Telefon;Wähler;Wählen;Anruf;Tastatur"
 
 #: ../src/qml/SettingsPage/OnlineAccountsHelper.qml:46
 msgid "Pick an account to create."
-msgstr ""
+msgstr "Zum anlegen wähle ein Konto aus."
 
 #: ../src/qml/SettingsPage/CallForwarding.qml:270
 msgid "Please select a phone number"
@@ -590,7 +589,7 @@ msgstr "Bitte warten"
 
 #: ../src/qml/SettingsPage/AccountSettings/SipNumberRewrite.qml:159
 msgid "Prefix"
-msgstr ""
+msgstr "Prefix"
 
 #: ../src/qml/LiveCallPage/ConferenceCallDisplay.qml:141
 msgid "Private"
