@@ -8,10 +8,10 @@ msgstr ""
 "Project-Id-Version: dialer-app\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-04-20 12:40+0200\n"
-"PO-Revision-Date: 2020-06-29 14:52+0000\n"
+"PO-Revision-Date: 2020-07-01 03:25+0000\n"
 "Last-Translator: PPNplus <ppnplus@protonmail.com>\n"
-"Language-Team: Thai <https://translate.ubports.com/projects/ubports/dialer-"
-"app/th/>\n"
+"Language-Team: Thai <https://translate.ubports.com/projects/ubports/"
+"dialer-app/th/>\n"
 "Language: th\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -42,7 +42,7 @@ msgstr ""
 #: ../src/qml/SettingsPage/SingleSim.qml:51
 #, qt-format
 msgid "%1 Services"
-msgstr ""
+msgstr "บริการ %1"
 
 #: ../src/qml/HistoryPage/dateUtils.js:92
 #: ../src/qml/SettingsPage/dateUtils.js:61
@@ -134,7 +134,7 @@ msgstr ""
 
 #: ../src/qml/SettingsPage/SettingsPage.qml:122
 msgid "Add an online account"
-msgstr ""
+msgstr "เพิ่มบัญชีออนไลน์"
 
 #: ../src/qml/HistoryPage/HistoryPage.qml:68
 msgctxt "All Calls"
@@ -156,9 +156,8 @@ msgid "Bluetooth device"
 msgstr ""
 
 #: ../src/qml/SettingsPage/ServiceInfo.qml:125
-#, fuzzy
 msgid "Call"
-msgstr "กำลังโทร"
+msgstr "โทร"
 
 #: ../src/qml/dialer-app.qml:587
 msgid "Call Barring"
@@ -235,7 +234,7 @@ msgstr "ยกเลิก"
 
 #: ../src/qml/Dialogs/SetDefaultSIMCardDialog.qml:34
 msgid "Change"
-msgstr ""
+msgstr "เปลี่ยน"
 
 #. TRANSLATORS: this refers to which SIM card will be used as default for calls
 #: ../src/qml/Dialogs/SetDefaultSIMCardDialog.qml:30
@@ -374,7 +373,7 @@ msgstr ""
 
 #: ../src/qml/Dialogs/UssdErrorDialog.qml:28
 msgid "Error"
-msgstr "ผิดพลาด"
+msgstr "ข้อผิดพลาด"
 
 #: ../src/qml/LiveCallPage/LiveCall.qml:178
 msgid "Failed to activate the call."
@@ -414,7 +413,7 @@ msgstr ""
 #: ../src/qml/SettingsPage/CallForwardItem.qml:157
 #: ../src/qml/SettingsPage/CallForwardItem.qml:202
 msgid "Forward to"
-msgstr ""
+msgstr "โอนสายไปยัง"
 
 #: ../src/qml/DialerPage/Keypad.qml:103
 msgid "GHI"
@@ -457,7 +456,7 @@ msgstr ""
 #: ../src/qml/SettingsPage/ServiceInfo.qml:115
 #, qt-format
 msgid "Last called %1"
-msgstr ""
+msgstr "โทรครั้งล่าสุดเมื่อ %1"
 
 #: ../src/qml/Dialogs/NoDefaultSIMCardDialog.qml:80
 msgid "Later"
@@ -613,7 +612,7 @@ msgstr ""
 
 #: ../src/qml/SettingsPage/SingleSim.qml:28
 msgid "SIM"
-msgstr ""
+msgstr "SIM"
 
 #: ../src/qml/Dialogs/SimLockedDialog.qml:27
 msgid "SIM Card is locked"
