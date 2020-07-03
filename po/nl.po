@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: dialer-app\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-04-20 12:40+0200\n"
-"PO-Revision-Date: 2020-01-19 19:39+0000\n"
-"Last-Translator: Tom Dom <thomas@patoel.nl>\n"
-"Language-Team: Dutch <https://translate.ubports.com/projects/ubports/dialer-"
-"app/nl/>\n"
+"PO-Revision-Date: 2020-07-03 11:27+0000\n"
+"Last-Translator: Heimen Stoffels <vistausss@outlook.com>\n"
+"Language-Team: Dutch <https://translate.ubports.com/projects/ubports/"
+"dialer-app/nl/>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 3.8\n"
+"X-Generator: Weblate 3.11.3\n"
 "X-Launchpad-Export-Date: 2017-02-17 05:52+0000\n"
 
 #: ../src/qml/DialerPage/Keypad.qml:242
@@ -303,7 +303,7 @@ msgstr ""
 #: ../src/qml/HistoryPage/HistoryDetailsPage.qml:258
 #: ../src/qml/HistoryPage/HistoryPage.qml:350
 msgid "Delete"
-msgstr "Verwijder"
+msgstr "Verwijderen"
 
 #: ../src/qml/HistoryPage/HistoryPage.qml:359
 msgid "Details"
@@ -518,7 +518,7 @@ msgstr "Nummers"
 
 #: ../src/qml/SettingsPage/CallForwarding.qml:301
 msgid "OK"
-msgstr "OK"
+msgstr "Oké"
 
 #: ../src/qml/SettingsPage/AccountSettings/sip.qml:28
 #: ../src/qml/SettingsPage/CallForwarding.qml:382
